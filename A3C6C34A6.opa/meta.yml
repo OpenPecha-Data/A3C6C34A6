@@ -1,0 +1,28 @@
+id: A3C6C34A6
+title: 'BA: Daśabhūmikasūtra'
+type: translation
+pechas:
+- IC23875D7
+- I3E348C7B
+- I7FB4F972
+- I471D7884
+- I1726C12E
+- IF54DDFE9
+- I40B9A7BC
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 15:02:25.651637
+  last_modified_at: 2023-02-08 15:02:25.651655
+alignment_to_base:
+  IC23875D7/4AD4: A0AE
+  I3E348C7B/27BE: A0AE
+  I7FB4F972/9F6F: A0AE
+  I471D7884/80F0: A0AE
+  I1726C12E/B9D8: A0AE
+  IF54DDFE9/4449: A0AE
+  I40B9A7BC/E1D4: A0AE
